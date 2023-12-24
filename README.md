@@ -1,8 +1,10 @@
+# One Bit Code.
 
-# Curso OneBitCode
+Bem-vindo ao meu repositório do curso One Bit Code, onde eu armazeno os exercícios e materiais de estudo do curso.
 
-Este repositorio tem como base colocar todos os meus conhecimentos, exercicios, testes e anotações que venho fazendo ao longo deste curso.
+## Sobre o Curso
 
+O One Bit Code é um curso abrangente de desenvolvimento que aborda diversos tópicos essenciais para se tornar um desenvolvedor full-stack.
 
 ## Aprendizados
 
